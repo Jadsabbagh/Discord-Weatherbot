@@ -35,7 +35,8 @@ WeatherBot is a Python script designed to retrieve and disseminate current weath
 ### Graphical Weather Updates
 1. Run the `weatherbot_graph.py` script using the command `python weatherbot_graph.py`.
 2. A bar graph visualizing the temperature and "feels like" temperature for the specified cities will be sent to the designated Discord channel.
-![example](](https://github.com/Jadsabbagh/Discord-Weatherbot/blob/main/Screenshot.png))
+![Screenshot](https://github.com/Jadsabbagh/Discord-Weatherbot/blob/main/Screenshot.png)
+
 
 ## Important Notes
 - Ensure that your WeatherAPI Key and Discord Bot Token are kept confidential and not shared publicly.
