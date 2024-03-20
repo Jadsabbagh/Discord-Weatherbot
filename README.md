@@ -23,7 +23,7 @@ WeatherBot is a Python script designed to retrieve and disseminate current weath
 5. Open the desired script (`weatherbot_text.py` for textual updates or `weatherbot_graph.py` for graphical updates) in a text editor.
 6. Replace `"YOUR-WEATHER-API-KEY"` with your WeatherAPI Key.
 7. Replace `"YOUR-DISCORD-BOT-TOKEN"` with your Discord Bot Token.
-8. Optionally, customize the latitude and longitude of desired cities in the `lat` and `lon` lists.
+8. Customize the latitude and longitude of desired cities in the `lat` and `lon` lists.
 9. Specify the Discord channel ID (`CHANNEL_ID`) where you want the weather updates to be sent.
 10. Save the changes and close the text editor.
 
